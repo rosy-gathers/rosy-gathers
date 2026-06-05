@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=rosy-gathers&style=flat-square&color=6366F1" />
 </p>
 
-I'm a final-year **CSE student at BRAC University** (GPA 3.71/4.0) with deep interests in **AI systems, NLP, and distributed computing**. I build production-grade systems — from bilingual RAG applications to secure collaboration platforms to multithreaded OS simulators — and I'm actively seeking **fully-funded PhD / research opportunities** in AI, NLP, or Systems.
+I'm a final-year **CS student at BRAC University**  with deep interests in **AI systems, NLP, and distributed computing**. I build production-grade systems — from bilingual RAG applications to secure collaboration platforms to multithreaded OS simulators — and I'm actively seeking **fully-funded PhD / research opportunities** in AI, NLP, or Systems.
 
 - 🔬 Research interests: **LLMs, RAG systems, NLP pipelines, distributed & embedded AI**
 - 🌏 Based in **Dhaka, Bangladesh**
